@@ -1,5 +1,7 @@
 # Code a Custom Category Widget!
 
+<img width="461" alt="category_widget" src="https://user-images.githubusercontent.com/62828568/94424949-09881e00-01c6-11eb-95f3-cd287d740477.png">
+
 ## Goals
  - Using the existing Flutter widgets, build a custom Category widget.
  - Customize the widget to your liking.
